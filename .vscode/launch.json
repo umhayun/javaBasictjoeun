@@ -1,0 +1,98 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch VariableExam",
+            "request": "launch",
+            "mainClass": "java20211213.VariableExam",
+            "projectName": "javaBasictjoeun_b453df27"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch CharExam",
+            "request": "launch",
+            "mainClass": "exam/exam.CharExam",
+            "projectName": "exam"
+        },
+        {
+            "type": "java",
+            "name": "Launch AllReview",
+            "request": "launch",
+            "mainClass": "java20211210.AllReview",
+            "projectName": "javaBasictjoeun_b453df27"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayExam",
+            "request": "launch",
+            "mainClass": "java20211210.ArrayExam",
+            "projectName": "javaBasictjoeun_b453df27"
+        },
+        {
+            "type": "java",
+            "name": "Launch Comment",
+            "request": "launch",
+            "mainClass": "java20211210.Comment",
+            "projectName": "javaBasictjoeun_b453df27"
+        },
+        {
+            "type": "java",
+            "name": "Launch GenaricExam",
+            "request": "launch",
+            "mainClass": "java20211210.GenaricExam",
+            "projectName": "javaBasictjoeun_b453df27"
+        },
+        {
+            "type": "java",
+            "name": "Launch MapExam",
+            "request": "launch",
+            "mainClass": "java20211210.MapExam",
+            "projectName": "javaBasictjoeun_b453df27"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumberExam",
+            "request": "launch",
+            "mainClass": "java20211210.NumberExam",
+            "projectName": "javaBasictjoeun_b453df27"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringBufferExam",
+            "request": "launch",
+            "mainClass": "java20211210.StringBufferExam",
+            "projectName": "javaBasictjoeun_b453df27"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringExam",
+            "request": "launch",
+            "mainClass": "java20211210.StringExam",
+            "projectName": "javaBasictjoeun_b453df27"
+        },
+        {
+            "type": "java",
+            "name": "Launch TernaryExam",
+            "request": "launch",
+            "mainClass": "java20211210.TernaryExam",
+            "projectName": "javaBasictjoeun_b453df27"
+        },
+        {
+            "type": "java",
+            "name": "Launch IfExam",
+            "request": "launch",
+            "mainClass": "java20211213.IfExam",
+            "projectName": "javaBasictjoeun_b453df27"
+        }
+    ]
+}
